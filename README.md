@@ -1,4 +1,4 @@
-👋 Hey, I’m Shifra Fraiman,
+<h4>👋 Hey, I’m Shifra Fraiman,</h4>
 
 A Full Stack Developer with passionate about learning and highly motivated, responsible, thorough, and creative. Excellent 
 interpersonal skills, knowledge, understanding of design, and excellent ability for self learning 
